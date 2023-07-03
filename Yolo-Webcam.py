@@ -4,7 +4,7 @@ import cvzone
 import math
 import time
 
-model = YOLO("Yolo-Weights/best.pt")
+model = YOLO("best.pt")
 
 # cap = cv2.VideoCapture(0)  # For Webcam
 # cap.set(3, 1280)
