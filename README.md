@@ -6,7 +6,7 @@ For Practice School- I,
 by Bhaskar Mishra (2021B4A72427H)
 BITS Pilani Hyderabad Campus
 - Wildlife detection through Webcam, Video or Photo
-- Will be made into a website
+## - FOR THE FULL CODE OF WEBSITE CHECK [Wildlife-Detection-Web_Application](https://github.com/blaze0081/Wildlife-Detection-Web_Application)
 
 ## Features
 
